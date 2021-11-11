@@ -1,10 +1,11 @@
 package ru.vsu.amm.moevm;
 import java.util.Stack;
 
-//link to github:
+//link to github: https://github.com/kerbyy/Calculator
 
 /**
  * A calculator class that can calculate the value of expressions
+ * @author Artem Lukin
  */
 public class Calculator {
 

@@ -9,7 +9,7 @@ class CalculatorTest {
 
     @Test
     void calculate_Minus() throws Exception {
-        assertEquals(2, new Calculator().calculate("-(-2)"), 0.000000001);
+        assertEquals(2, new Calculator().calculate("4-2"), 0.000000001);
     }
 
     @Test
