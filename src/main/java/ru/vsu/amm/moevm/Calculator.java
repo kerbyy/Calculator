@@ -77,6 +77,7 @@ public class Calculator {
                     continue;
                 str.append(expression.charAt(i));
             }
+            expression = str.toString();
 
         }
 
